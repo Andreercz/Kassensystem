@@ -1,0 +1,19 @@
+# Virtuelle Python-Umgebungen ignorieren
+.venv/
+venv/
+ENV/
+
+# PyCharm-Einstellungen ignorieren
+.idea/
+
+# Temporäre Python-Dateien
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# macOS Systemdateien ignorieren
+.DS_Store
+
+# Rechnungsordner optional ignorieren (falls du die Test-Bons nicht hochladen willst)
+# rechnungen/
