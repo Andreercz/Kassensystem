@@ -1,10 +1,10 @@
-# 🍜 SmartPOS - Takumi Edition
+#  SmartPOS - Takumi Edition
 
 Ein modernes, relationales Kassensystem (Point of Sale) für die Gastronomie, maßgeschneidert für das Menü und die Arbeitsabläufe des Restaurants **Takumi**. Entwickelt als eigenständige Desktop-Anwendung in Python mit einer modernen, hardwarebeschleunigten Benutzeroberfläche (`CustomTkinter`) und einer relationalen SQLite3-Datenbank.
 
 ---
 
-## 📊 Kernfeatures auf Enterprise-Level
+##  Kernfeatures auf Enterprise-Level
 
 Das System wurde für den produktiven Einsatz im Restaurantbetrieb optimiert und umfasst folgende Software-Konzepte:
 
@@ -34,7 +34,7 @@ Das System wurde für den produktiven Einsatz im Restaurantbetrieb optimiert und
 
 ---
 
-## 📂 Projektstruktur & Architektur
+##  Projektstruktur & Architektur
 
 Das Projekt folgt einer sauberen Schichtenarchitektur (Separation of Concerns), um Wartbarkeit und Erweiterbarkeit zu garantieren:
 
